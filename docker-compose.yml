@@ -1,0 +1,8 @@
+services:
+  telegram-bot:
+    build: .
+    container_name: telegram-bot
+    restart: always
+    volumes:
+      - ./data:/app/data
+      - ./config.ini:/app/config.ini

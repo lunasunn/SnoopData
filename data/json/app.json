@@ -1,0 +1,16 @@
+{
+  "name": "Telegram Bot",
+  "title": "Gifts Buyer Bot",
+  "version": "2.0.0",
+  "release_date": "02.01.2025",
+  "license": "MIT",
+  "dependencies": {
+    "install": "pip install -r requirements.txt"
+  },
+  "scripts": {
+    "start": "python main.py"
+  },
+  "documentation": {
+    "readme": "README.md"
+  }
+}
