@@ -1,4 +1,4 @@
-# Telegram Gifts Buyer
+# Telegram Gifts Bot for David T.
 
 Automated Telegram userbot for purchasing gifts with smart prioritization and balance management.
 
